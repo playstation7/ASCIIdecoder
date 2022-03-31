@@ -1,2 +1,2 @@
 # ASCIIdecoder
-Decode int to char symbol
+Program decodes int to char symbol
